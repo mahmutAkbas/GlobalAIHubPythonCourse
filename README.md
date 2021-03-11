@@ -9,3 +9,4 @@ newList=[i**2 for i in (odd_list+even_list)]
 for i in newList:
   print(type(i))
 ```
+![](https://github.com/mahmutAkbas/GlobalAIHubPythonCourse/blob/main/HW2.png)
